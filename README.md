@@ -55,7 +55,7 @@
  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
    </p>
 
-<img width="90%" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=belvin011&show_icons=true&theme=radical">
+<!-- <img width="90%" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=belvin011&show_icons=true&theme=radical"> -->
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=belvin011&layout=compact&theme=radical)
