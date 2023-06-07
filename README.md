@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **belvinedu011@gmail.com**
 
-- ⚡ Fun fact **Debug**
+- ⚡ Fun fact **DebugginG**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
