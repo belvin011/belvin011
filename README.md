@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android , Coding**
+- 💬 Ask me about **Programming,Webdevelopment**
 
 - 📫 How to reach me **belvinedu011@gmail.com**
 
