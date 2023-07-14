@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm ManikantA</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+### 🌍 Let's Connect!
+
 
   <a href="https://in.linkedin.com/in/hargun-singh-sahni-519baa166">
     <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
